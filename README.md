@@ -65,3 +65,5 @@ sudo systemctl status tronbot
 ## Support and Donation
 * Star and/or fork this repository
 * TRX: TRWBqiqoFZysoAeyR1J35ibuyc8EvhUAoY
+
+  `If you have any quetsion with this project, feel free to reach out.`
