@@ -10,7 +10,7 @@
 * pip3 install tronapi
 * pip3 install python-telegram-bot
 * pip3 install lxml
-
+* pip3 install lxml
 ## How to use
 
 ### Settings
@@ -67,3 +67,4 @@ sudo systemctl status tronbot
 * TRX: TRWBqiqoFZysoAeyR1J35ibuyc8EvhUAoY
 
   `If you have any quetsion with this project, feel free to reach out.`
+  
